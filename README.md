@@ -1,4 +1,4 @@
-# 🚀 College Vibe - A Private Social Platform for Indian College Students
+# 🚀 College Vibe - A Private Social Platform for College Students
 
 ## 📌 Overview
 College Vibe is an **exclusive social media platform** designed for Indian college students. It provides a **secure, student-only space** for open discussions, content sharing, and a dynamic marketplace for buying and selling within the campus community.
