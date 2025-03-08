@@ -1,69 +1,58 @@
-# Welcome to your Lovable project
+# 🚀 College Vibe - A Private Social Platform for Indian College Students
 
-## Project info
+## 📌 Overview
+College Vibe is an **exclusive social media platform** designed for Indian college students. It provides a **secure, student-only space** for open discussions, content sharing, and a dynamic marketplace for buying and selling within the campus community.
 
-**URL**: https://lovable.dev/projects/21c6daad-a7af-4614-9284-9c88e298caa8
+## 🔥 Features
+- **🎓 Campus-Exclusive Communities** – Access is restricted to verified students of the same institution.
+- **📝 Anonymous Posting** – Share thoughts, seek advice, and express opinions without revealing your identity.
+- **📸 Content Sharing** – Post GIFs, memes, stories, and engage with peers.
+- **✅ Peer Moderation** – Trained student volunteers ensure a safe and respectful environment.
+- **🛒 Marketplace with INR Pricing** – Buy/sell textbooks, gadgets, and more, with transactions in **Indian Rupees (INR)**.
+- **🔔 Notifications** – Stay updated with real-time alerts.
+- **💬 Messaging** – Connect and chat privately with fellow students.
 
-## How can I edit this code?
+## 🛠 Tech Stack
+This project is built with:
+- **Frontend:** Vite, React, TypeScript
+- **UI Components:** shadcn-ui, Tailwind CSS
+- **Backend:** Node.js with Express
+- **Database:** MongoDB / Firebase
+- **Authentication:** OTP-based student email verification
 
-There are several ways of editing your application.
+## 🚀 Getting Started
+### 1️⃣ Prerequisites
+Ensure you have the following installed:
+- [Node.js](https://nodejs.org/)
+- npm or yarn
 
-**Use Lovable**
+### 2️⃣ Installation
+```bash
+# Clone the repository
+git clone https://github.com/your-username/college-vibe.git
+cd college-vibe
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/21c6daad-a7af-4614-9284-9c88e298caa8) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+# Install dependencies
+npm install
 ```
 
-**Edit a file directly in GitHub**
+### 3️⃣ Running the App
+```bash
+npm run dev
+```
+This starts the development server with auto-reloading and an instant preview.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📌 Contribution Guidelines
+We welcome contributions! To contribute:
+1. Fork the repo.
+2. Create a new branch (`git checkout -b feature-name`).
+3. Commit changes (`git commit -m "Added new feature"`).
+4. Push the branch (`git push origin feature-name`).
+5. Open a pull request.
 
-**Use GitHub Codespaces**
+## 📜 License
+This project is **open-source** and available under the [MIT License](LICENSE).
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 📞 Contact
+For any queries, create an issue on GitHub.
 
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/21c6daad-a7af-4614-9284-9c88e298caa8) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
